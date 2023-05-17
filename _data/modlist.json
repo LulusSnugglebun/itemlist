@@ -30,6 +30,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
     "author": "Lennoxicon",
     "name": "Biotech Expansion - Core",
     "steamId": null,
@@ -48,28 +54,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "LimeTreeSnake",
     "name": "[LTS]Systems",
     "steamId": "2812826451",
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.0.8421.18257"
-  },
-  {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8420.13342"
+    "version": "1.0.8521.5340"
   },
   {
     "author": "Oskar Potocki and Smash Phil",
@@ -104,8 +98,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
@@ -142,6 +136,54 @@
     "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.8369.37080"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -188,8 +230,8 @@
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Helixien Gas Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2877699803",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson",
@@ -222,6 +264,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -230,8 +278,8 @@
   {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
@@ -660,12 +708,6 @@
     "version": null
   },
   {
-    "author": "spoonshortageftNackblad",
-    "name": "FashionRIMsta",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Chevreau",
     "name": "Diagonal Walls 2",
     "steamId": null,
@@ -673,19 +715,7 @@
   },
   {
     "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
     "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
     "steamId": null,
     "version": null
   },
@@ -760,12 +790,6 @@
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
   },
   {
     "author": "Mlie",
@@ -884,8 +908,8 @@
   {
     "author": "YAYO (Original by D A)",
     "name": "Suppression (Continued)",
-    "steamId": null,
-    "version": null
+    "steamId": "2559826227",
+    "version": "1.4.4"
   },
   {
     "author": "Fluffy",
@@ -981,7 +1005,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.5.2.0"
+    "version": "1.6.4.0"
   },
   {
     "author": "cucumpear and Azrael",
@@ -1044,12 +1068,6 @@
     "version": null
   },
   {
-    "author": "ilawz",
-    "name": "Mo'Events (Continued)",
-    "steamId": "2035143365",
-    "version": "1.4.2"
-  },
-  {
     "author": "Kirby",
     "name": "More Religious Origins",
     "steamId": null,
@@ -1065,13 +1083,19 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.11.0.0"
+    "version": "1.12.6.0"
   },
   {
     "author": "Fluffy",
     "name": "Work Tab",
     "steamId": "725219116",
     "version": "3.21.303"
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
   },
   {
     "author": "Dylan",
@@ -1086,26 +1110,8 @@
     "version": null
   },
   {
-    "author": "Shinzy",
-    "name": "Apparello 2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "swefan",
     "name": "BeautyFloors (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Cargo container",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chevreau",
-    "name": "Diagonal Walls",
     "steamId": null,
     "version": null
   },
@@ -1122,10 +1128,10 @@
     "version": "1.4"
   },
   {
-    "author": "Augurr",
-    "name": "RimFridge Updated",
-    "steamId": "2878183338",
-    "version": "1.2.1.0"
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1138,12 +1144,6 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
   },
   {
     "author": "Syrchalis",
@@ -1170,12 +1170,6 @@
     "version": "1.4.7"
   },
   {
-    "author": "jeonggihun",
-    "name": "SRTS Expanded retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Janson",
     "name": "Weapon Tech",
     "steamId": null,
@@ -1197,19 +1191,13 @@
     "author": "mr.teterew",
     "name": "Real Ruins",
     "steamId": "1552146295",
-    "version": "2.3.0.0"
+    "version": "3.0.0.0"
   },
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0"
-  },
-  {
-    "author": "notfood",
-    "name": "Outfitted",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "4loris4",
@@ -1284,12 +1272,6 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker and Taranchuk",
-    "name": "[RH2] BCD: CASEVAC",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
@@ -1323,7 +1305,7 @@
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.2.1.0"
+    "version": "1.2.3.0"
   },
   {
     "author": "Murmur",
@@ -1344,6 +1326,24 @@
     "version": null
   },
   {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype",
+    "steamId": "2927812651",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seos",
+    "name": "Race - Faifox",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Syrchalis",
     "name": "[SYR] Individuality",
     "steamId": "1497105115",
@@ -1360,18 +1360,6 @@
     "name": "More Psycasts",
     "steamId": "2460833332",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "SeanMungo",
-    "name": "Royal +",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Solid E. Wires",
-    "name": "Pawnkind Race Diversification (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Lennoxicon",
@@ -1440,10 +1428,70 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Encounter Map Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
+  },
+  {
+    "author": "gguake",
+    "name": "Do Something for Idle",
+    "steamId": "1896806569",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "leafzxg",
+    "name": "Thrumbo Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victor and wilki24",
+    "name": "Walls are solid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sylant",
+    "name": "Warcasket Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Better Map Sizes",
+    "steamId": "2099101052",
+    "version": "1.0.0"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.8484.41551"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
   },
   {
     "author": "hodlhodl",
@@ -1455,7 +1503,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
+    "version": "6.3.0.0.biotech.b12"
   },
   {
     "author": "SirRandoo",
@@ -1470,15 +1518,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "marcin212",
-    "name": "Architect Icons",
-    "steamId": "1195427067",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Encounter Map Resources",
-    "steamId": null,
-    "version": null
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
   }
 ]
