@@ -631,7 +631,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "backpack": {
+  "backpack1": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

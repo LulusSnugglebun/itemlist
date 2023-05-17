@@ -3880,7 +3880,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": 125
     },
     {
       "abr": "aberrantmeat",
@@ -12796,13 +12796,13 @@
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": 125
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": 125
     },
     {
       "abr": "fleshcraftedarm",
@@ -12910,7 +12910,7 @@
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": 25
     },
     {
       "abr": "flikfutrug",
@@ -18004,7 +18004,7 @@
       "abr": "maturefleshbeast",
       "category": "Animals",
       "defname": "AA_MatureFleshbeast",
-      "price": 917
+      "price": 750
     },
     {
       "abr": "mayo",
@@ -18839,12 +18839,6 @@
       "category": "Recreation",
       "defname": "Joy_ModernComputer",
       "price": 1100
-    },
-    {
-      "abr": "moderndarklamp",
-      "category": "Furniture",
-      "defname": "Light_ModernDarkLamp",
-      "price": 129
     },
     {
       "abr": "modernwall",
@@ -27848,7 +27842,7 @@
     },
     {
       "abr": "vintageprototyperifle",
-      "category": "Rifles",
+      "category": "Rare/unique",
       "defname": "Gun_PrototypeRifle",
       "price": 833
     },
@@ -29075,7 +29069,307 @@
       "category": "Submachine guns",
       "defname": "Gun_TacticalSubmachineGun",
       "price": 600
+    },
+    {
+      "abr": "bullslinger",
+      "category": "Melee weapons",
+      "defname": "RBM_Bullslinger",
+      "price": 2833
+    },
+    {
+      "abr": "chiton",
+      "category": "Misc",
+      "defname": "RBME_Chiton",
+      "price": 233
+    },
+    {
+      "abr": "cowbell",
+      "category": "Headgear",
+      "defname": "RBME_Cowbell",
+      "price": 124
+    },
+    {
+      "abr": "damocles",
+      "category": "Melee weapons",
+      "defname": "RBM_Damocles",
+      "price": 3000
+    },
+    {
+      "abr": "epsilonaxe",
+      "category": "Melee weapons",
+      "defname": "RBME_EpsilonAxe",
+      "price": 281
+    },
+    {
+      "abr": "hellenichelmet",
+      "category": "Headgear",
+      "defname": "RBME_HellenicHelmet",
+      "price": 210
+    },
+    {
+      "abr": "labrys",
+      "category": "Melee weapons",
+      "defname": "RBM_Labrys",
+      "price": 3833
+    },
+    {
+      "abr": "midaspear",
+      "category": "Melee weapons",
+      "defname": "RBM_Midaspear",
+      "price": 4583
+    },
+    {
+      "abr": "milkingmachine",
+      "category": "Production",
+      "defname": "RBM_MilkingMachine",
+      "price": 742
+    },
+    {
+      "abr": "mirleather",
+      "category": "Leathers",
+      "defname": "Leather_Lapelli",
+      "price": 13
+    },
+    {
+      "abr": "oxenammer",
+      "category": "Melee weapons",
+      "defname": "RBM_Oxenammer",
+      "price": 3833
+    },
+    {
+      "abr": "panoply",
+      "category": "Armor",
+      "defname": "RBME_Panoply",
+      "price": 5000
+    },
+    {
+      "abr": "pelekys",
+      "category": "Ranged weapons",
+      "defname": "RBME_Pelekys",
+      "price": 204
+    },
+    {
+      "abr": "royalhellenichelmet",
+      "category": "Headgear",
+      "defname": "RBME_RoyalHellenicHelmet",
+      "price": 350
+    },
+    {
+      "abr": "sling",
+      "category": "Ranged weapons",
+      "defname": "RBME_Sling",
+      "price": 118
+    },
+    {
+      "abr": "tailcoat",
+      "category": "Apparel",
+      "defname": "RBApparel_Tailcoat",
+      "price": 342
+    },
+    {
+      "abr": "taurailgun",
+      "category": "Melee weapons",
+      "defname": "RBM_TaurailGun",
+      "price": 7500
+    },
+    {
+      "abr": "ah-1zviper(attack)",
+      "category": "Buildings",
+      "defname": "ELIFAH-1ZVAttack",
+      "price": 10542
+    },
+    {
+      "abr": "ah-6mlittlebird(attack)",
+      "category": "Buildings",
+      "defname": "ELIFMH-6LBAttack",
+      "price": 2967
+    },
+    {
+      "abr": "aw109agustawestland(transport)",
+      "category": "Buildings",
+      "defname": "ELIFAW109VTransport",
+      "price": 14517
+    },
+    {
+      "abr": "ch-46eseaknight(transport)",
+      "category": "Buildings",
+      "defname": "ELIFCH-46ETransport",
+      "price": 18733
+    },
+    {
+      "abr": "couriercoat",
+      "category": "Courierwear",
+      "defname": "LTS_CourierCoat",
+      "price": 1250
+    },
+    {
+      "abr": "courierhat",
+      "category": "Courierwear",
+      "defname": "LTS_CourierHat",
+      "price": 833
+    },
+    {
+      "abr": "cutlass",
+      "category": "Melee weapons",
+      "defname": "LTS_CourierCutlass",
+      "price": 252
+    },
+    {
+      "abr": "machete",
+      "category": "Melee weapons",
+      "defname": "LTS_CourierMachete",
+      "price": 358
+    },
+    {
+      "abr": "mechanicalsword",
+      "category": "Melee weapons",
+      "defname": "LTS_CourierSword",
+      "price": 342
+    },
+    {
+      "abr": "mh-60ldapblackhawk(attack)",
+      "category": "Buildings",
+      "defname": "ELIFUH-60Attack",
+      "price": 6692
+    },
+    {
+      "abr": "mh-6mlittlebird(transport)",
+      "category": "Buildings",
+      "defname": "ELIFMH-6LBTransport",
+      "price": 2650
+    },
+    {
+      "abr": "musketrifle",
+      "category": "Ranged weapons",
+      "defname": "LTS_MusketRifle",
+      "price": 475
+    },
+    {
+      "abr": "noticeboard",
+      "category": "Misc",
+      "defname": "LTS_NoticeBoard",
+      "price": 205
+    },
+    {
+      "abr": "originalepoeworkbench(debug)",
+      "category": "Production",
+      "defname": "TableProsthetics",
+      "price": 1433
+    },
+    {
+      "abr": "pressuregun",
+      "category": "Ranged weapons",
+      "defname": "LTS_PressureGun",
+      "price": 400
+    },
+    {
+      "abr": "quadmusket",
+      "category": "Ranged weapons",
+      "defname": "LTS_QuadMusket",
+      "price": 187
+    },
+    {
+      "abr": "revolvermusket",
+      "category": "Ranged weapons",
+      "defname": "LTS_RevolverMusket",
+      "price": 152
+    },
+    {
+      "abr": "techprint(couriertech)",
+      "category": "Techprints",
+      "defname": "Techprint_LTS_CourierTech",
+      "price": 2500
+    },
+    {
+      "abr": "throwingknife",
+      "category": "Ranged weapons",
+      "defname": "LTS_ThrowingKnife",
+      "price": 58
+    },
+    {
+      "abr": "thrumbomilk",
+      "category": "Drugs",
+      "defname": "ThrumboMilk",
+      "price": 333
+    },
+    {
+      "abr": "thrumbowool",
+      "category": "Wools",
+      "defname": "ThrumboWool",
+      "price": 39
+    },
+    {
+      "abr": "tunbell",
+      "category": "Melee weapons",
+      "defname": "RBM_Tunbell",
+      "price": 3500
+    },
+    {
+      "abr": "uh-1yvenom(attack)",
+      "category": "Buildings",
+      "defname": "ELIFUH-1YVAttack",
+      "price": 4433
+    },
+    {
+      "abr": "uh-1yvenom(transport)",
+      "category": "Buildings",
+      "defname": "ELIFUH-1YVTransport",
+      "price": 3858
+    },
+    {
+      "abr": "uh-60blackhawk(transport)",
+      "category": "Buildings",
+      "defname": "ELIFUH-60Transport",
+      "price": 5758
+    },
+    {
+      "abr": "v-22osprey(transport)",
+      "category": "Buildings",
+      "defname": "ELIFV-22Transport",
+      "price": 21125
+    },
+    {
+      "abr": "youthserum",
+      "category": "Items",
+      "defname": "MechSerumYouth",
+      "price": 2333
+    },
+    {
+      "abr": "alyssumtrimings",
+      "category": "Plant matter",
+      "defname": "AlyssumTrimings",
+      "price": 8
+    },
+    {
+      "abr": "glitterworldinoculation",
+      "category": "Drugs",
+      "defname": "GW_Inoculation",
+      "price": 30
+    },
+    {
+      "abr": "glitterworldneutroamine",
+      "category": "Manufactured",
+      "defname": "Glitterworld_Neutroamine",
+      "price": 20
+    },
+    {
+      "abr": "huntingshotgun",
+      "category": "Shotguns",
+      "defname": "Gun_HuntingShotgun",
+      "price": 367
+    },
+    {
+      "abr": "policerifle",
+      "category": "Rifles",
+      "defname": "Gun_PoliceRifle",
+      "price": 683
+    },
+    {
+      "abr": "stubbylever-actionrifle",
+      "category": "Rifles",
+      "defname": "Gun_StubbyLeverActionRifle",
+      "price": 400
     }
   ],
-  "total": 4846
+  "total": 4895
 }

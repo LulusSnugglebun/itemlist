@@ -186,8 +186,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 600,
       "mod": "Twitch Toolkit"
     },
     "description": "Gives a viewer some of your coins.",
